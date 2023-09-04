@@ -1,0 +1,1 @@
+Entidades associativas sao criadas quando existe uma relação de muitos pra muitos
