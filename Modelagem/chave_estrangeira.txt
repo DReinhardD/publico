@@ -1,0 +1,5 @@
+Como estudamos nas últimas aulas, a entidade fraca acaba recebendo a chave primária da entidade forte com a qual está associada para compor a chave parcial.
+
+Como sabemos, a entidade fraca não possui chave primária. Por esse motivo, podemos ter atributos identificadores próprios da entidade fraca que irão compor essa chave parcial. Além disso, temos a chave primária da entidade forte, que se desloca até a entidade fraca.
+
+Para essa chave que sai da entidade forte e chega na entidade fraca damos o nome de chave estrangeira. Poderíamos fazer uma analogia com a palavra estrangeira, já que ela originalmente pertence a outra entidade, e viaja até a entidade de destino.
