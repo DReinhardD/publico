@@ -1,0 +1,27 @@
+Atributos são as caracteristicas das nossas entidades.
+
+Tipos de atributos:
+Valor único (atômico);
+Mais de um valor (multivalorado);
+Armazenados;
+Derivados;
+Null; = "Não se Aplica"
+Obrigatorio = notnull
+Opcional = pode deixar "null";
+
+Os atributos descrevem as propriedades das entidades. Por exemplo, a entidade pessoa pode ter como atributos: nome,data de nascimento, idade, endereço. Assim como as entidades, também existem alguns tipos de atributos. São eles:
+
+Atributo simples
+É um tipo de atributo indivisível, ou seja, é um atributo atômico. Um exemplo deste tipo é o atributo CPF, pois ele não pode ser dividido em partes menores para formar outros atributos.
+
+Atributo composto
+Pode ser dividido em partes menores que representam outros atributos, como endereço. Ele pode ser subdividido em atributos menores, como: cidade,estado, rua, CEP.
+
+Atributo multivalorado
+É aquele que pode ter um ou N (vários) valores associados a ele. Por exemplo: o atributo telefone de um cliente. Este pode ter um ou vários telefones.
+
+Atributo derivado e armazenado
+Atributos derivados dependem de outro atributo ou até mesmo outra entidade para existir, como, idade e data de nascimento. Para descobrirmos a idade de uma pessoa, precisamos da sua data de nascimento. Então, consideramos o atributo idade como derivado do atributo data de nascimento, chamado, por sua vez, de atributo armazenado.
+
+Atributo chave
+É utilizado para identificar de forma única uma entidade, ou seja, os valores associados a esse atributo são distintos entre o conjunto de entidades. Como exemplo, podemos utilizar o Código do Produto. Ele é único e pode ser utilizado como atributo chave, uma vez que cada produto recebe apenas um Código distinto.
