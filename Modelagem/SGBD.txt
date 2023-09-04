@@ -10,6 +10,14 @@ Alto nível: modelo de dados conceitual, mais relacionado a linguagem do ser hum
 
 Baixo nível: Linguagem do computador, como por exemplo linguagem SQL.
 
+Identificar um modelo lógico de dados e um modelo físico de dados.
+Diferenciar um modelo de alto nível de um modelo de baixo nível.
+Entender o que são os SGBDs.
+Aplicar as técnicas de modelagem utilizando a ferramenta CASE.
+
+
+
+
 É possível aplicar as técnicas de modelagem sem o uso de uma ferramenta CASE (Computer-Aided Software Engineering, ou Engenharia de Software Assistida por Computador), porém esse trabalho manual seria bem extenso. Além disso, a conversão entre o esquema conceitual para o esquema lógico (redesenhando as formas, por exemplo), pode tornar o trabalho exaustivo e estressante. Usando uma ferramenta CASE conseguimos observar as alterações do modelo, conforme formos tomando as decisões (processo “causa-efeito”).
 
 Mas será que existe uma ferramenta CASE ideal?
