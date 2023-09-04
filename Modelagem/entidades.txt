@@ -1,0 +1,24 @@
+Entidade é um objetivo único no mundo real;
+Clientes de uma empresa;
+Carros que são vendidos;
+Departamento de vendas;
+Pode ser abstrata ou concreta;
+
+Pessoas, produtos(concreta) //// Departamentos (abstrato)
+
+No diagrama a entidade é representadada por um retangulo
+
+
+Temos dois tipos de entidade no nosso diagrama
+Entidade forte, e Entidade fraca
+
+Entidade Forte = Existe independentemente de outra entidade.
+Tem chave primaria
+
+Entidade Fraca = Depende da existência de outro entidade
+Exemplo: Entidade Funcionário, Entidade Dependente, o dependente não existe sem estar atrelado a um funcionario.
+Não tem chave primaria
+
+No diagrama:
+Entidade forte= retangulo
+Entidade fraca= retangulo duplo
