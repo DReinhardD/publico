@@ -1,0 +1,31 @@
+Sistema Gerencial de Banco de Dados;
+Interface para incluir, alterar ou consultar;
+Tudo o que fazemos em um banco passa pelo SGBD;
+É comum confindirem com banco de dados.
+
+Entender a importancia e a necessidade de um SGBD / Banco de dados no local/empresa.
+
+
+Alto nível: modelo de dados conceitual, mais relacionado a linguagem do ser humano, como por exemplo diagramas, desenhos, textos.
+
+Baixo nível: Linguagem do computador, como por exemplo linguagem SQL.
+
+É possível aplicar as técnicas de modelagem sem o uso de uma ferramenta CASE (Computer-Aided Software Engineering, ou Engenharia de Software Assistida por Computador), porém esse trabalho manual seria bem extenso. Além disso, a conversão entre o esquema conceitual para o esquema lógico (redesenhando as formas, por exemplo), pode tornar o trabalho exaustivo e estressante. Usando uma ferramenta CASE conseguimos observar as alterações do modelo, conforme formos tomando as decisões (processo “causa-efeito”).
+
+Mas será que existe uma ferramenta CASE ideal?
+Uma ferramenta CASE precisa possuir a capacidade de utilizar diversas formas geométricas para: desenvolver uma boa representação visual, a integração entre o diagrama entidade/relacionamento e o dicionário de dados, além de possibilitar uma mínima interação com o(a) usuário(a).
+
+Existem várias ferramentas avançadas disponíveis no mercado que podem auxiliar a modelagem de banco de dados. Algumas das mais conhecidas são:
+
+OracleDesigner ™ (Oracle ®): possui uma arquitetura flexível e pode ser instalada em múltiplas plataformas;
+PowerDesigner ™ (Sybase ®): um dos mais utilizados no mercado;
+ERWin (CA ®): também é muito utilizado no mercado;
+Freeware DBDesigner: possui uma grande quantidade de recursos;
+PyDesigner: está disponível para a plataforma Linux;
+VISIO ™ (Microsoft ®): ferramenta direcionada exclusivamente para desenho. Você pode conhecer um pouco mais de como o VISIO funciona, neste Alura+ sobre Excel: Fluxogramas.
+Durante o curso utilizamos o brModelo, mas o que nos levou a essa escolha? Essa ferramenta possui algumas vantagens como:
+
+permitir realizar alterações estruturais no modelo, conforme são tomadas novas decisões pela pessoa analista;
+trazer uma atenção especial aos atributos e todas as suas especificações;
+possibilitar uma visualização mais “limpa” do esquema ao ocultar os atributos que não tenham relevância no modelo conceitual, mas que são relevantes no modelo lógico, por exemplo;
+e possuir um dicionário de dados bem completo.
