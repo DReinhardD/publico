@@ -1,0 +1,10 @@
+relações de cardinalidade
+
+1:1
+Um colaborador só pode gerenciar um departamento
+
+1:n
+Um departamento trabalham "n" colaboradores
+
+n:n
+N pedidos contem N Livros
