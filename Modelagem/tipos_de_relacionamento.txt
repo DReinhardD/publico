@@ -1,0 +1,9 @@
+Relacionamento no Brmodelo é representado pelo losango
+
+Graus de relacionamento:
+Duas entidades se relacionamento = relacionamento binario
+Três entidades = ternario
+Quatro entidades ou mais = n-ário
+
+Cardinalidade = Conectividade;
+Como as entidades se conectam;
