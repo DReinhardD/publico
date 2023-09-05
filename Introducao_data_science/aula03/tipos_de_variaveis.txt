@@ -1,0 +1,10 @@
+Variaveis categoricas. 
+Exemplos sem ranking: Linguagem = pt-br, en, kr... (Categorica nominal). 
+Exemplos com ranking: Escolaridade = 1º grau, 2º grau, 3º grau. 1 grau < 2 grau < 3 grau (Categorica ordinal)
+Não soma, não há facilidade de utilizar operações aritimeticas
+
+
+Variavel quantitativa > 
+Exemplo: Orçamento > quantitavo continuo.
+Exemplo: Quandidade de votos > quantitiva
+
