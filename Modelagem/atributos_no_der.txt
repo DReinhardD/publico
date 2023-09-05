@@ -1,0 +1,4 @@
+A chave primária é um atributo único que contem algumas características
+Nunca se repete;
+Não pode ser nulo;
+Só entidades fortes possuem chave primária.
