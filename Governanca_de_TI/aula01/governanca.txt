@@ -7,3 +7,8 @@ Métodos de produção de relatórios financeiros;
 Explanação sobre como ocorrem a gestão dos riscos e dos controles internos.
 Saiba que essa lista não é exaustiva e perceba que ela se relaciona com os conceitos de Governança que você pôde estudar até o momento. Quando a Governança não existe explicitamente, não é sinal de que a organização seja descontrolada – pode acontecer de termos uma Governança “tácita” (implícita) que ainda não foi formalizada e comunicada. A definição e o compartilhamento da Governança de maneira formal e ampla é mais comum em grandes organizações, mais maduras.
 Vamos em frente para começar a entender melhor a questão da estrutura decisória estipulada pela Governança (em especial, de TI).
+
+
+Reconhecer que a Governança estabelece um conjunto de regras: tais regras, aliadas a controles, visam o adequado uso dos recursos de uma organização, rumo ao atingimento de seus objetivos e interesses legítimos dos stakeholders, com transparência, responsabilização, equidade e conformidade a leis, normas e regulamentos.
+Entender que a Governança de TI é parte da Governança Corporativa: TI é um ativo estratégico, crítico e precioso da organização, necessitando, portanto, de uma estrutura decisória e de responsabilidades para estimular e controlar comportamentos desejáveis em TI.
+Compreender que a Governança de TI deve se alinhar à Estratégia Corporativa: com isso, a entrega de valor (que é uma grande missão da TI) fica mais protegida e ganhamos na transparência (que é essencial à Governança e pode ser facilitada com recursos de tecnologia).
