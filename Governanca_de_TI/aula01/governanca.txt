@@ -1,0 +1,9 @@
+Em uma declaração de Governança Corporativa, convém que figurem:
+
+Pilares estratégicos (visão e missão);
+As responsabilidades dos executivos (políticas de alçadas);
+Políticas e procedimentos de combate ao abuso de poder;
+Métodos de produção de relatórios financeiros;
+Explanação sobre como ocorrem a gestão dos riscos e dos controles internos.
+Saiba que essa lista não é exaustiva e perceba que ela se relaciona com os conceitos de Governança que você pôde estudar até o momento. Quando a Governança não existe explicitamente, não é sinal de que a organização seja descontrolada – pode acontecer de termos uma Governança “tácita” (implícita) que ainda não foi formalizada e comunicada. A definição e o compartilhamento da Governança de maneira formal e ampla é mais comum em grandes organizações, mais maduras.
+Vamos em frente para começar a entender melhor a questão da estrutura decisória estipulada pela Governança (em especial, de TI).
